@@ -25,7 +25,7 @@ SECRET_KEY = '&6-3b6v&)1f4$2mv^u$*26ew*!xx&44fl$(t7e!abcjym6)%^h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<venuxk>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'venuxk.pythonanywhere.com']
 
 
 # Application definition
